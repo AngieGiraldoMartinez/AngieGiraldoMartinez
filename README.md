@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **AngieGiraldoMartinez/AngieGiraldoMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am Angie Yulieth Giraldo Martinez, an electronic engineer from the Pedagogical and Technological University of Colombia - UPTC. As a professional I have experience in the area of cybersecurity, I have taken courses related to the ISO 27001 standard, management of SIEM technical tools, among others. I have a great interest in the DevOps area and data analytics. 
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
